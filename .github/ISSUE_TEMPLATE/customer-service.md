@@ -2,7 +2,7 @@
 name: Customer Service
 about: Customer requests, problems, complaints
 title: "[Customer Service]"
-labels: Customer Service
+labels: ''
 assignees: ''
 
 ---
