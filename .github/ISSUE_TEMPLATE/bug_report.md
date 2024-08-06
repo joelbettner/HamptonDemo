@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug, engineering request
-assignees: ''
+labels: bug, engineering request, project tracking
+assignees: joelbettner
 
 ---
 
