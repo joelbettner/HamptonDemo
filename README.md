@@ -1,2 +1,2 @@
 # HamptonDemo
-asdfasdfThis is a demonstration repository for HamptonCC
+asdfThis is a demonstration repository for HamptonCC
